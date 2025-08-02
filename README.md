@@ -14,7 +14,9 @@
 Advanced Research Assistant is a production-level agentic AI system that demonstrates sophisticated multi-agent coordination for comprehensive research tasks. The system combines natural conversational abilities with specialized research agents to provide professional-grade research reports.
 
 ### **🎯 Live Demo**
-**Public URL:** https://972fbcab815ecc062c.gradio.live
+**Public URL:** https://2d0fd4e561baf6d5dd.gradio.live/
+
+**DEMO Website:** https://crew-ai-assistant.netlify.app/
 *Accessible globally with full functionality*
 
 ---

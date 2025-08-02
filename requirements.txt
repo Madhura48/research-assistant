@@ -1,0 +1,32 @@
+# Core CrewAI and AI frameworks
+crewai>=0.28.0
+crewai-tools>=0.1.0
+langchain>=0.1.20
+langchain-openai>=0.1.7
+langchain-core>=0.1.50
+langchain-community>=0.0.38
+openai>=1.0.0
+
+# Search and web tools
+duckduckgo-search>=3.9.0
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+
+# Data processing and analysis
+pandas>=2.0.3
+numpy>=1.24.0
+
+# Configuration and utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# Web interface (for future enhancements)
+streamlit>=1.32.0
+
+# Development and testing
+pytest>=7.4.0
+black>=23.7.0
+
+# Additional utilities
+matplotlib>=3.7.2
+seaborn>=0.12.2
